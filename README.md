@@ -1,4 +1,4 @@
-# CrossFit Performance Predictor Using Gradient Boosting Models from Scratch(Only Numpy)
+# CrossFit Performance Predictor Using Gradient Boosting Models from Scratch (Only Numpy)
 
 Welcome to my project! I have developed a CrossFit Performance Predictor using various Gradient Boosting Models, built from scratch using only numpy. I have worked with a dataset from the CrossFit Games, implementing models including Simple Gradient Boost, XGBoost, CatBoost, and LightGBM. Furthermore, I compared these custom implementations with their respective library models to analyze their accuracy and training time.
 
